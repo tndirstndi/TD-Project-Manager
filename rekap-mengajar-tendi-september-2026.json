@@ -1,0 +1,195 @@
+{
+  "bulan": "September 2026",
+  "pengajar": "Tendi Rustandi",
+  "jadwal": [
+    {
+      "name": "SD Darul Hikam Dago",
+      "day": "Selasa",
+      "date": "2026-09-01",
+      "honor": 50000,
+      "transport": 25000
+    },
+    {
+      "name": "Jalu (HP)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 15000
+    },
+    {
+      "name": "Adriel (PC)",
+      "day": "Kamis",
+      "date": "2026-09-03",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "Rama (PC)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "SD Insan Cermat",
+      "day": "Jum'at",
+      "date": "2026-09-04",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "Arsyad (PC)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "SD Darul Hikam Dago",
+      "day": "Selasa",
+      "date": "2026-09-08",
+      "honor": 50000,
+      "transport": 25000
+    },
+    {
+      "name": "Jalu (HP)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 15000
+    },
+    {
+      "name": "TK Anak Ceria",
+      "day": "Kamis",
+      "date": "2026-09-09",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "Adriel (PC)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "DC PG TK BPI",
+      "day": "Senin",
+      "date": "2026-09-14",
+      "honor": 50000,
+      "transport": 10000
+    },
+    {
+      "name": "SD Darul Hikam Dago",
+      "day": "Selasa",
+      "date": "2026-09-15",
+      "honor": 50000,
+      "transport": 15000
+    },
+    {
+      "name": "Jalu (HP)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 25000
+    },
+    {
+      "name": "Zaydan (PC)",
+      "day": "Rabu",
+      "date": "2026-09-16",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "TK Anak Ceria",
+      "day": "Kamis",
+      "date": "2026-09-17",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "Adriel (PC)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "SD Insan Cermat",
+      "day": "Jum'at",
+      "date": "2026-09-18",
+      "honor": 50000,
+      "transport": 15000
+    },
+    {
+      "name": "Piket & Private Center",
+      "day": "Sabtu",
+      "date": "2026-09-19",
+      "honor": 100000,
+      "transport": 0
+    },
+    {
+      "name": "DC PG TK BPI",
+      "day": "Senin",
+      "date": "2026-09-21",
+      "honor": 50000,
+      "transport": 10000
+    },
+    {
+      "name": "SD Darul Hikam Dago",
+      "day": "Selasa",
+      "date": "2026-09-22",
+      "honor": 50000,
+      "transport": 25000
+    },
+    {
+      "name": "Rama (PC)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "Jalu (HP)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 15000
+    },
+    {
+      "name": "Zaydan (PC)",
+      "day": "Rabu",
+      "date": "2026-09-23",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "TK Anak Ceria",
+      "day": "Kamis",
+      "date": "2026-09-24",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "Adriel (PC)",
+      "day": "",
+      "date": "",
+      "honor": 50000,
+      "transport": 0
+    },
+    {
+      "name": "SD Insan Cermat",
+      "day": "Jum'at",
+      "date": "2026-09-25",
+      "honor": 50000,
+      "transport": 15000
+    },
+    {
+      "name": "Expo Visit Darul Hikam Dago",
+      "day": "Sabtu",
+      "date": "2026-09-26",
+      "honor": 100000,
+      "transport": 25000
+    }
+  ]
+}
